@@ -68,8 +68,6 @@
 - 492 fraud cases (0.17%)
 - Download from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-> Note: Dataset not included in this repo due to file size. Download from Kaggle and place `creditcard.csv` in the root folder before running the notebook.
-
 ---
 
 ## 🎓 What I Learned
